@@ -233,31 +233,36 @@ plt.title("Sales and Profit based on Segment,Ship mode and Region")
 
 
 
-![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/0b5996b7-2ae2-4e5a-a887-60ec8ab0c436)
+![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/1f06e731-2d36-4031-ba92-48f5fed64e40)
 
 
 
-![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/7e1b14cf-8db4-4209-a014-3230e5744406)
+![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/aa4a61d2-df12-4053-989f-7b8bc9282b77)
 
 
 
-![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/a9b203c5-2873-4d21-8945-e3cf9cf2b23a)
+![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/e170b204-d1a7-406a-95a2-bb7f1954b4d7)
 
 
 
-![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/c65d0016-409e-4512-804c-017838ca82e2)
+![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/d97717f2-a50f-4765-a6b1-280b16b84b47)
 
 
 
-![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/cfd813cf-1dfc-409a-9e4f-d1068a8343fc)
+![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/f3943f3a-dc36-4e9f-861f-97b9f70d59a9)
 
 
 
-![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/da8fe2af-f63f-471a-afeb-3ae4f383f98f)
+![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/df3ad7aa-5f60-4792-90a6-ac685889e28f)
 
 
 
-![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/68fdc46c-f223-42cd-b554-80518efff36e)
+![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/25237bc4-03a5-4548-9dd7-02a9b350e555)
+
+
+
+![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/63818e4c-b36a-4ac4-9b30-ec70169e7f40)
+
 
 
 
