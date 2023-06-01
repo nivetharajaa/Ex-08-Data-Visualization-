@@ -201,11 +201,7 @@ plt.legend(title='Region')
 
 plt.legend(loc='best')
 
-plt.title("Sales and Profit based on Segment,Ship mode and Region".
-
-
-
-
+plt.title("Sales and Profit based on Segment,Ship mode and Region")
 
 
 
@@ -213,7 +209,19 @@ plt.title("Sales and Profit based on Segment,Ship mode and Region".
 
 
 
-![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/dcde17c9-8ce0-4847-b2ec-cfa2be21d98f)
+![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/4535f575-63e5-4963-8416-b546a4033d90)
+
+
+
+![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/7a37e1a2-2ed1-4fb8-9174-879d30966074)
+
+
+
+![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/9bd392cc-6dc5-4b66-aab8-f16cc3bc471e)
+
+
+
+![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization-/assets/120543388/c1a346ce-a6b6-45eb-9009-68fd4f11f9b6)
 
 
 
