@@ -262,7 +262,7 @@ plt.title("Sales and Profit based on Segment,Ship mode and Region")
 
 
 
-##Result :
+# Result :
 
 Hence the data visualization method for the given dataset applied successfully.
 
